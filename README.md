@@ -37,7 +37,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Documentation
 - [MongoDB Realm Docs](https://docs.mongodb.com/realm/) - Main documentation for MongoDB Realm
 
-## Community
+### Books
+- [Building Modern Swift Apps with Realm Database](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database) - Realm book from Marin Todorov
+
+### Community
 - [Realm Forum](https://www.mongodb.com/community/forums/c/realm/9) - The place to discuss Realm
 - [Realm on StackOverflow](https://stackoverflow.com/questions/tagged/realm) - Realm Questions and Answers on StackOverflow
 - [Realm meetups](https://live.mongodb.com/realm-global-community/) - Meetups about Realm where you can meet other Realm users
