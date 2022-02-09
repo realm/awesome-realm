@@ -30,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
     - [Sample apps](#dotnet-samples)
     - [Libraries and components](#dotnet-libs)
   - [Dart](#dart)
-  - [C++}(#cpp)
+  - [C++](#cpp)
 
 
 ## Resources
