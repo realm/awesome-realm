@@ -64,7 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Realm Java](https://github.com/realm/realm-java) - Java SDK for the Realm Mobile Database
 - [Realm Kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database
    
-### <a name="java-samples"></a>Java Sample Apps
+### <a name="java-samples"></a>Java/Kotlin Sample Apps
 - [Inventory](https://github.com/realm/realm-sync-demos/tree/main/Inventory-app) - Showcases the Inventory & Delivery operations of a mid/large store chain.
 
    
