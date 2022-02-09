@@ -74,7 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Kotlin Sample Apps](https://github.com/realm/realm-kotlin-samples) - a set of projects to help you learn about using Realm-Kotlin SDK Each sample demonstrates different use cases.
 
 ## <a name="javascript"> Javascript
-- [Realm-js](https://github.com/realm/realm-js) - Realm JavaScript SDK for Node and React Native
+- [Realm-js](https://github.com/realm/realm-js) - Realm JavaScript SDK for Node, React Native and Electron
 - [Realm-js Node Docs](https://docs.mongodb.com/realm/sdk/node/)
 - [Realm-js React Native Docs](https://docs.mongodb.com/realm/sdk/react-native/)
 - [Realm-js Reference](https://docs.mongodb.com/realm-sdks/js/latest/)
