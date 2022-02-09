@@ -49,9 +49,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Swift SDK Reference](https://docs.mongodb.com/realm-sdks/swift/latest/)
 
 ### <a name="swift-samples"></a>Swift Sample Apps
-- [Realm-Draw](https://github.com/realm/Realm-Drawing) - Realm-Draw is a drawing app that demonstrates the Realm mobile database and MongoDB Realm Sync.
-- [RChat](https://github.com/realm/RChat) = RChat is a Chat app built with SwiftUI and Realm
-- [Realm-Sweeper](https://github.com/realm/Realm-Sweeper) - Realm-Sweeper is a collaborative version of the Windows Mine Sweeper app.
+- [Realm-Draw](https://github.com/realm/Realm-Drawing) - Drawing app that demonstrates the Realm mobile database and MongoDB Realm Sync.
+- [RChat](https://github.com/realm/RChat) = Chat app built with SwiftUI and Realm
+- [Realm-Sweeper](https://github.com/realm/Realm-Sweeper) - Collaborative version of the Windows Mine Sweeper app.
+- [Inventory](https://github.com/realm/realm-sync-demos/tree/main/Inventory-app) - Showcases the Inventory & Delivery operations of a mid/large store chain.
 
 ### <a name="swift-libs"></a>Swift Libraries and Components
 
@@ -62,6 +63,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ## <a name="java"> Java/Kotlin
 - [Realm Java](https://github.com/realm/realm-java) - Java SDK for the Realm Mobile Database
 - [Realm Kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database
+   
+### <a name="java-samples"></a>Java Sample Apps
+- [Inventory](https://github.com/realm/realm-sync-demos/tree/main/Inventory-app) - Showcases the Inventory & Delivery operations of a mid/large store chain.
+
    
 ## <a name="javascript"> Javascript
 - [Realm-js](https://github.com/realm/realm-js) - Realm JavaScript SDK for Node and React Native
