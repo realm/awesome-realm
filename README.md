@@ -26,6 +26,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ## Resources
 ### Documentation
 
+## Tools
+- [Realm Studio](https://github.com/realm/realm-studio) - Realm Studio is a visual tool to view, edit, and design Realm Database files.
+
 ## Swift
 - [Swift Mobile Database GitHub repo](https://github.com/realm/realm-swift)
 - [Swift SDK Documentation](https://docs.mongodb.com/realm/sdk/swift/)
