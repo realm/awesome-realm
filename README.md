@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [Books](#books)
    - [Talks](#talks)
    - [Tutorials](#tutorials)
+   - [Community](#community)
    - [More](#more)
 - [Tools](#tools)
 - SDKs
@@ -30,6 +31,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ## Resources
 ### Documentation
 - [MongoDB Realm Docs](https://docs.mongodb.com/realm/) - Main documentation for MongoDB Realm
+
+## Community
+- [Realm Forum](https://www.mongodb.com/community/forums/c/realm/9) - The place to discuss Realm
+- [Realm on StackOverflow](https://stackoverflow.com/questions/tagged/realm) - Realm Questions and Answers on StackOverflow
 
 ## Tools
 - [Realm Studio](https://github.com/realm/realm-studio) - Realm Studio is a visual tool to view, edit, and design Realm Database files.
