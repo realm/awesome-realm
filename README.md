@@ -13,11 +13,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [More](#more)
 - [Tools](#tools)
 - SDKs
-  - Swift
+  - [Swift](#swift)
     - [Sample apps](#swift-samples)
     - [Libraries and components](#swift-libs)
     - [Tools](#swift-tools)
-  - Java/Kotlin
+  - [Java/Kotlin](#java)
     - [Sample apps](#java-samples)
     - [Libraries and components](#java-libs)
     - [Tools](#java-tools)
@@ -46,6 +46,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [Jazzy](https://github.com/realm/jazzy) - Create soulful docs for Swift & Objective-C
 
-## Java/Kotlin
+## <a name="java"> Java/Kotlin
 - [Realm Java](https://github.com/realm/realm-java) - Java SDK for the Realm Mobile Database
 - [Realm Kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database
