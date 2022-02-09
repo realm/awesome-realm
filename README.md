@@ -21,6 +21,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
     - [Sample apps](#java-samples)
     - [Libraries and components](#java-libs)
     - [Tools](#java-tools)
+  - [Javascript](#javascript)
+    - [Sample apps](#js-samples)
+    - [Libraries and components](#js-libs)
+    - [Tools](#js-tools)
 
 
 ## Resources
@@ -49,3 +53,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ## <a name="java"> Java/Kotlin
 - [Realm Java](https://github.com/realm/realm-java) - Java SDK for the Realm Mobile Database
 - [Realm Kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database
+   
+## <a name="javascript"> Javascript
+- [Realm-js](https://github.com/realm/realm-js) - Realm JavaScript SDK for Node and React Native
+- [Realm-js Node Docs](https://docs.mongodb.com/realm/sdk/node/)
+- [Realm-js React Native Docs](https://docs.mongodb.com/realm/sdk/react-native/)
+- [Realm-js Reference](https://docs.mongodb.com/realm-sdks/js/latest/)
+   
+### <a name="js-samples"></a>Javascript Sample Apps
+   
+### <a name="js-libs"></a>Javascript Libraries and Components
+- [React-Realm-Context](https://github.com/realm/react-realm-context) - Components that simplifies using Realm with React
+
