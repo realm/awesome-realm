@@ -26,6 +26,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
     - [Sample apps](#js-samples)
     - [Libraries and components](#js-libs)
     - [Tools](#js-tools)
+  - [.Net & Unity](#dotnet)
+    - [Sample apps](#dotnet-samples)
+    - [Libraries and components](#dotnet-libs)
 
 
 ## Resources
@@ -35,6 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ## Community
 - [Realm Forum](https://www.mongodb.com/community/forums/c/realm/9) - The place to discuss Realm
 - [Realm on StackOverflow](https://stackoverflow.com/questions/tagged/realm) - Realm Questions and Answers on StackOverflow
+- {Realm meetups](https://live.mongodb.com/realm-global-community/) - Meetups about Realm where you can meet other Realm users
 
 ## Tools
 - [Realm Studio](https://github.com/realm/realm-studio) - Realm Studio is a visual tool to view, edit, and design Realm Database files.
@@ -69,4 +73,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    
 ### <a name="js-libs"></a>Javascript Libraries and Components
 - [React-Realm-Context](https://github.com/realm/react-realm-context) - Components that simplifies using Realm with React
+   
+## <a name="dotnet"> .Net & Unity
+- [Realm .Net](https://github.com/realm/realm-dotnet) - Realm SDK for DotNet & Unity
+- [Realm .Net Documentation](https://docs.mongodb.com/realm/sdk/dotnet/)
+- [Realm .Net Reference](https://docs.mongodb.com/realm-sdks/dotnet/latest/)
+   
+### <a name="dotnet-samples"></a>.Net Sample Apps
+ 
+   
 
