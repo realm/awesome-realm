@@ -29,6 +29,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
   - [.Net & Unity](#dotnet)
     - [Sample apps](#dotnet-samples)
     - [Libraries and components](#dotnet-libs)
+  - [Dart](#dart)
+  - [C++}(#cpp)
 
 
 ## Resources
@@ -85,6 +87,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Realm .Net Reference](https://docs.mongodb.com/realm-sdks/dotnet/latest/)
    
 ### <a name="dotnet-samples"></a>.Net Sample Apps
+   
+## <a name="dart"> Dart
+- [Realm Dart](https://github.com/realm/realm-dart) - Realm SDK for Dart & Flutter (alpha)
+
+## <a name="cpp"> C++
+- [Realm C++](https://github.com/realm/realm-cpp) - Realm SDK for C++ (prototype)
  
    
 
