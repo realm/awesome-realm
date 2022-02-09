@@ -71,7 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    
 ### <a name="java-samples"></a>Java/Kotlin Sample Apps
 - [Inventory](https://github.com/realm/realm-sync-demos/tree/main/Inventory-app) - Showcases the Inventory & Delivery operations of a mid/large store chain.
-- {Kotlin Sample Apps](https://github.com/realm/realm-kotlin-samples) - a set of projects to help you learn about using Realm-Kotlin SDK Each sample demonstrates different use cases.
+- [Kotlin Sample Apps](https://github.com/realm/realm-kotlin-samples) - a set of projects to help you learn about using Realm-Kotlin SDK Each sample demonstrates different use cases.
 
 ## <a name="javascript"> Javascript
 - [Realm-js](https://github.com/realm/realm-js) - Realm JavaScript SDK for Node and React Native
