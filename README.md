@@ -40,7 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [RChat](https://github.com/realm/RChat) = RChat is a Chat app built with SwiftUI and Realm
 - [Realm-Sweeper](https://github.com/realm/Realm-Sweeper) - Realm-Sweeper is a collaborative version of the Windows Mine Sweeper app.
 
-### <a name="swift-libs"></a>Swift Libaries and Components
+### <a name="swift-libs"></a>Swift Libraries and Components
 
 ### <a name="swift-tools"></a>Swift Tools
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
