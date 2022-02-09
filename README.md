@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
     - [Sample apps](#dotnet-samples)
     - [Libraries and components](#dotnet-libs)
   - [Dart](#dart)
+    - [Sample apps](#dart-samples) 
   - [C++](#cpp)
 
 
@@ -93,6 +94,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    
 ## <a name="dart"> Dart
 - [Realm Dart](https://github.com/realm/realm-dart) - Realm SDK for Dart & Flutter (alpha)
+   
+### <a name="dart-samples"></a>Dart Sample Apps
+- [Dart Sample Apps](https://github.com/realm/realm-dart-samples) -  Realm Flutter and Realm Dart SDK Sample Apps.
 
 ## <a name="cpp"> C++
 - [Realm C++](https://github.com/realm/realm-cpp) - Realm SDK for C++ (prototype)
