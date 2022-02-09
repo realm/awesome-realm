@@ -45,3 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### <a name="swift-tools"></a>Swift Tools
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [Jazzy](https://github.com/realm/jazzy) - Create soulful docs for Swift & Objective-C
+
+## Java/Kotlin
+- [Realm Java](https://github.com/realm/realm-java) - Java SDK for the Realm Mobile Database
+- [Realm Kotlin](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database
