@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Realm .Net Reference](https://docs.mongodb.com/realm-sdks/dotnet/latest/)
    
 ### <a name="dotnet-samples"></a>.Net Sample Apps
+- [Unity Examples](https://github.com/realm/unity-examples) - Examples of how you can use Realm to enhance your games created in Unity3D.
    
 ## <a name="dart"> Dart
 - [Realm Dart](https://github.com/realm/realm-dart) - Realm SDK for Dart & Flutter (alpha)
