@@ -99,6 +99,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Unity Examples](https://github.com/realm/unity-examples) - Examples of how you can use Realm to enhance your games created in Unity3D.
 - [Space Shooter](https://github.com/mongodb-developer/unity-space-shooter) - Space Shooter game build using Unity and realm.
    
+### <a name="dotnet-libs"></a>.Net Libraries and Components
+- [realm-lfs](https://github.com/nirinchev/realm-lfs) - Interacting with binary files that are transparently uploaded to a 3rd party service (e.g. S3/Azure Blob Storage)
+- [GroupedCollections](https://github.com/realm/realm-dotnet-groupedcollection) - Data bindable grouped collections that can be passed directly to a Xamarin.Forms ListView.
+   
 ## <a name="dart"> Dart
 - [Realm Dart](https://github.com/realm/realm-dart) - Realm SDK for Dart & Flutter (alpha)
    
