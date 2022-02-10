@@ -62,9 +62,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### <a name="swift-libs"></a>Swift Libraries and Components
 - [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) - RxSwift extension for RealmSwift's types
-- [Realm LoginKit](https://github.com/realm/realm-loginkit) = General purpose account login user interface for apps build on Realm
-- [Realm DrawKit](https://github.com/realm/realm-drawkit) - A modular drawing library backed by the Realm
+- [LoginKit](https://github.com/realm/realm-loginkit) = General purpose account login user interface for apps build on Realm
+- [DrawKit](https://github.com/realm/realm-drawkit) - Modular drawing library backed by Realm
 - [Realm Converter](https://github.com/realm/realm-cocoa-converter) - Utility framework to make it easier to get data both in and out of Realm (imports from CSV, XLSX and JSON).
+- [IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit
+- [RealmGeoQueries](https://github.com/mhergon/RealmGeoQueries) - Spatial queries. In the absence of official functions, this library provide the possibility to do proximity search.
+- [CombineRealm](https://github.com/CombineCommunity/CombineRealm) - Combine extensions for Realm
 
 ### <a name="swift-tools"></a>Swift Tools
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
@@ -78,6 +81,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Inventory](https://github.com/realm/realm-sync-demos/tree/main/Inventory-app) - Showcases the Inventory & Delivery operations of a mid/large store chain.
 - [Kotlin Sample Apps](https://github.com/realm/realm-kotlin-samples) - a set of projects to help you learn about using Realm-Kotlin SDK Each sample demonstrates different use cases.
 - [Fantasy Premier League](https://github.com/joreilly/FantasyPremierLeague) - Kotlin Multiplatform sample using Jetpack Compose, SwiftUI and Realm for local persistence.
+   
+### <a name="java-libs"></a>Java/Kotlin Libraries and Components
+- [realm-android-adapters](https://github.com/realm/realm-android-adapters) - Adapters for combining Realm Java with Android UI components and framework classes
+- [realmfieldnameshelper](https://github.com/cmelchior/realmfieldnameshelper) - Extension library used to create more type-safe queries.
+   
+### <a name="java-tools"></a>Java/Kotlin Tools
+- [Stetho-Realm](https://github.com/uPhyca/stetho-realm) - Displays Realm database content in Stetho instead of SQLite database content.
 
 ## <a name="javascript"> Javascript
 - [Realm-js](https://github.com/realm/realm-js) - Realm JavaScript SDK for Node, React Native and Electron
