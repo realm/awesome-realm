@@ -97,6 +97,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    
 ### <a name="dotnet-samples"></a>.Net Sample Apps
 - [Unity Examples](https://github.com/realm/unity-examples) - Examples of how you can use Realm to enhance your games created in Unity3D.
+- [Space Shooter](https://github.com/mongodb-developer/unity-space-shooter) - Space Shooter game build using Unity and realm.
    
 ## <a name="dart"> Dart
 - [Realm Dart](https://github.com/realm/realm-dart) - Realm SDK for Dart & Flutter (alpha)
