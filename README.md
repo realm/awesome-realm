@@ -105,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    
 ## <a name="dart"> Dart
 - [Realm Dart](https://github.com/realm/realm-dart) - Realm SDK for Dart & Flutter (alpha)
+- [Realm Flutter Documentation](https://docs.mongodb.com/realm/sdk/flutter/)
    
 ### <a name="dart-samples"></a>Dart Sample Apps
 - [Dart Sample Apps](https://github.com/realm/realm-dart-samples) -  Realm Flutter and Realm Dart SDK Sample Apps.
