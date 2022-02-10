@@ -61,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Inventory](https://github.com/realm/realm-sync-demos/tree/main/Inventory-app) - Showcases the Inventory & Delivery operations of a mid/large store chain.
 
 ### <a name="swift-libs"></a>Swift Libraries and Components
+- [rxRealm](https://github.com/RxSwiftCommunity/RxRealm) - RxSwift extension for RealmSwift's types
 - [Realm LoginKit](https://github.com/realm/realm-loginkit) = General purpose account login user interface for apps build on Realm
 - [Realm DrawKit](https://github.com/realm/realm-drawkit) - A modular drawing library backed by the Realm
 - [Realm Converter](https://github.com/realm/realm-cocoa-converter) - Utility framework to make it easier to get data both in and out of Realm (imports from CSV, XLSX and JSON).
