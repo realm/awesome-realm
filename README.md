@@ -27,7 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
     - [Libraries and components](#js-libs)
     - [Tools](#js-tools)
   - [.Net & Unity](#dotnet)
-    - [Sample apps](#dotnet-samples)
+    - [Unity Sample apps](#unity-samples)
     - [Libraries and components](#dotnet-libs)
   - [Dart](#dart)
     - [Sample apps](#dart-samples) 
@@ -105,9 +105,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Realm .Net Documentation](https://docs.mongodb.com/realm/sdk/dotnet/)
 - [Realm .Net Reference](https://docs.mongodb.com/realm-sdks/dotnet/latest/)
    
-### <a name="dotnet-samples"></a>.Net Sample Apps
+### <a name="unity-samples"></a>Unity Sample Apps
 - [Unity Examples](https://github.com/realm/unity-examples) - Examples of how you can use Realm to enhance your games created in Unity3D.
 - [Space Shooter](https://github.com/mongodb-developer/unity-space-shooter) - Space Shooter game build using Unity and realm.
+- [Mongo World Game Demos](https://github.com/mongodb-developer/aws-reinvent-game-demo) - Games built with Unity and MongoDB Realm that can be experienced cross-platform on mobile as well as computer.
+- [Infinite Runner](https://github.com/mongodb-developer/unity-infinite-runner) - Demo of a game using Realm for local storage
    
 ### <a name="dotnet-libs"></a>.Net Libraries and Components
 - [realm-lfs](https://github.com/nirinchev/realm-lfs) - Interacting with binary files that are transparently uploaded to a 3rd party service (e.g. S3/Azure Blob Storage)
