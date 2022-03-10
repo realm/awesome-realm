@@ -1,5 +1,5 @@
 # awesome-realm
-A curated list of awesome Realm resources, libraries, tools and applications
+A curated list of awesome [Realm](https://realm.io/) resources, libraries, tools and applications
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by contributing!
 
