@@ -87,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [realmfieldnameshelper](https://github.com/cmelchior/realmfieldnameshelper) - Extension library used to create more type-safe queries.
    
 ### <a name="java-tools"></a>Java/Kotlin Tools
+- [Flipper-Realm](https://github.com/kamgurgul/Flipper-Realm) - Android Realm driver for Flipper.
 - [Stetho-Realm](https://github.com/uPhyca/stetho-realm) - Displays Realm database content in Stetho instead of SQLite database content.
 
 ## <a name="javascript"> Javascript
