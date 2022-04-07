@@ -99,7 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### <a name="js-samples"></a>Javascript Sample Apps
    
 ### <a name="js-libs"></a>Javascript Libraries and Components
-- [React-Realm-Context](https://github.com/realm/react-realm-context) - Components that simplifies using Realm with React
+- [Realm-React](https://www.npmjs.com/package/@realm/react) - Components that simplifies using Realm with React
    
 ## <a name="dotnet"> .Net & Unity
 - [Realm .Net](https://github.com/realm/realm-dotnet) - Realm SDK for DotNet & Unity
