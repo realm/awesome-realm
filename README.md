@@ -100,7 +100,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    
 ### <a name="js-libs"></a>Javascript Libraries and Components
 - [Realm-React](https://www.npmjs.com/package/@realm/react) - Components that simplifies using Realm with React
-   
+- [Babel Realm Type-Safe Queries](https://github.com/tomduncalf/babel-realm-typesafe-plugin) - Creating type-safe queries for Realm using TypeScript and Babel
+- [Realm Aggregate](https://github.com/sourabhbagrecha/realm-aggregate) - Simple aggregation pipeline framework for Realm
+
 ## <a name="dotnet"> .Net & Unity
 - [Realm .Net](https://github.com/realm/realm-dotnet) - Realm SDK for DotNet & Unity
 - [Realm .Net Documentation](https://docs.mongodb.com/realm/sdk/dotnet/)
